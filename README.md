@@ -6,8 +6,8 @@ Hola soy Andrea
 Hola soy Claudia jejej
 Y yo Xochitl :3
 
-Claudia Pilar Heredia Rodríguez
-Salvador García Martínez  
-Andrea Carreño Coppo
-Mónica Andrea Gallegos  
-Xochitl Avila 
+Claudia Pilar Heredia Rodríguez \
+Salvador García Martínez \ 
+Andrea Carreño Coppo \
+Mónica Andrea Gallegos \  
+Xochitl Avila \
